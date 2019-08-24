@@ -35,8 +35,12 @@ plugins:
   - jekyll-feed
   - jekyll-avatar
   - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-redirect-from
 
 paginate: 5
+paginate_path: "/page:num"
+
 accent_image: /assets/img/clouds-cloudy-cold.jpg
 accent_color: rgb(59,88,119)
 
