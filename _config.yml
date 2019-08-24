@@ -36,7 +36,7 @@ plugins:
   - jekyll-avatar
   - jekyll-paginate
 
-  paginate: 5
+paginate: 5
 accent_image: /assets/img/clouds-cloudy-cold.jpg
 accent_color: rgb(59,88,119)
 
