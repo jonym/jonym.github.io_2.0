@@ -4,7 +4,7 @@ title: Example Content II
 description: >
   A page showing how regular markdown content is styled in Hydejack.
 image: /assets/img/blog/example-content-ii.jpg
-categories: blog
+categories: project
 canonical_url: https://pages-themes.github.io/architect/
 subtitle:   "Facebook Performance-Marketing with Google Analytics"
 tags: review book marketing facebook ga google analytics

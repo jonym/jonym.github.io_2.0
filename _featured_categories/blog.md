@@ -4,6 +4,6 @@ title: Blog
 slug: blog
 menu: true
 order: 1
-description: >
-    my personal blog.
+# description: >
+#     my personal blog.
 ---
